@@ -1,0 +1,53 @@
+.retangulo {
+    width: 1000px; 
+    height: 550px;  
+    background-color: whitesmoke;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    position: fixed;
+    top: 7%;
+    left: 40%;
+    color: #dd4cb2;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+.text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    position: fixed;
+    top: 25%;
+    left: 18%;
+    right: 18%;
+    color: #4b153b;
+    text-align: left;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+  }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #eba4e1;
+    text-align: center;
+    padding: 0px
+}
+
+.imagem img {
+  position: fixed;
+  top: 25%;
+  left: 18%;
+  right: 18%;
+  width: 25%
+}
