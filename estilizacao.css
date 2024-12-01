@@ -51,3 +51,7 @@ footer {
   right: 18%;
   width: 25%
 }
+
+a:visited {
+  color: magenta
+}
